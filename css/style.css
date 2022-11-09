@@ -5,3 +5,8 @@ h1{
     font-weight: bold;
     font-size: 20px;
 }
+
+h2{
+    color: blue;
+    background-color: white;
+}
